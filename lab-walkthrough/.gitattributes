@@ -1,0 +1,12 @@
+# Force HTML recognition
+*.html linguist-language=HTML
+
+# Force PowerShell recognition
+*.ps1 linguist-language=PowerShell
+
+# Force Markdown recognition
+*.md linguist-language=Markdown
+
+# Count Markdown files in language stats
+*.md linguist-detectable=true
+*.md linguist-language=Markdown
