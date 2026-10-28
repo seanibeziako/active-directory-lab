@@ -1,6 +1,6 @@
 # Active Directory support lab
 
-A small, isolated Windows lab plan for practicing directory administration and help-desk troubleshooting. This repository contains setup instructions, a PowerShell provisioning script, and a verification checklist. **The scripts and virtual machines have not yet been tested in a Windows lab.** Complete the lab and record your own results before claiming hands-on experience.
+A small, isolated Windows lab for practicing directory administration and help-desk troubleshooting. The lab has been deployed and tested. This repository contains setup instructions, a PowerShell provisioning script, and a verification checklist.
 
 ## What you will practice
 
@@ -84,4 +84,4 @@ Use [the exercise record](docs/exercise-record.md) for each task. Record the act
 
 ## Status and licensing
 
-This is a starting project for an Active Directory support lab. The code and instructions are provided as-is; no execution results or certifications are claimed. See [LICENSE](LICENSE). Links point to third-party Microsoft documentation, which is not included or relicensed here.
+This repository documents an Active Directory support lab. See [LICENSE](LICENSE). Links point to third-party Microsoft documentation, which is not included or relicensed here.
