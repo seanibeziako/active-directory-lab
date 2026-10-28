@@ -86,8 +86,8 @@ Use [the exercise record](docs/exercise-record.md) for each task. Record the act
 
 - Joined a Windows 10 client to an Active Directory domain.
 - Verified that the domain controller provided a DHCP lease to the client.
-- Signed in to the client with a domain user and changed the initial password.
-- Configured AD DS, DHCP, and routing/NAT.
+- Verified user accounts and group membership, then signed in to the client with a domain user and changed the initial password.
+- Configured AD DS, DNS, DHCP, and routing/NAT.
 
 Additional materials are available in the `lab-walkthrough` folder. Its bulk-user script contains a hard-coded example password; do not use it as-is in a real environment. The top-level scripts request a password interactively.
 
